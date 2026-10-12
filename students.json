@@ -1,0 +1,72 @@
+[
+  {
+    "StudentId": 1,
+    "FirstName": "Bob",
+    "LastName": "Burger",
+    "ProgramName": "Math",
+    "GPA": 2.2
+  },
+  {
+    "StudentId": 2,
+    "FirstName": "Tom",
+    "LastName": "Cruise",
+    "ProgramName": "Science",
+    "GPA": 2.8
+  },
+  {
+    "StudentId": 3,
+    "FirstName": "Tom",
+    "LastName": "Cat",
+    "ProgramName": "Law",
+    "GPA": 2.9
+  },
+  {
+    "StudentId": 4,
+    "FirstName": "Jerry",
+    "LastName": "Rat",
+    "ProgramName": "Physics",
+    "GPA": 3.8
+  },
+  {
+    "StudentId": 5,
+    "FirstName": "Sammy",
+    "LastName": "Greger",
+    "ProgramName": "History",
+    "GPA": 1.2
+  },
+  {
+    "StudentId": 6,
+    "FirstName": "Jojo",
+    "LastName": "Blizzard",
+    "ProgramName": "English",
+    "GPA": 3.0
+  },
+  {
+    "StudentId": 7,
+    "FirstName": "Micheal",
+    "LastName": "Afton",
+    "ProgramName": "Mechanics",
+    "GPA": 3.9
+  },
+  {
+    "StudentId": 8,
+    "FirstName": "Jessica",
+    "LastName": "Markens",
+    "ProgramName": "Psychology",
+    "GPA": 3.4
+  },
+  {
+    "StudentId": 9,
+    "FirstName": "Peter",
+    "LastName": "Pain",
+    "ProgramName": "Mechanics",
+    "GPA": 1.9
+  },
+  {
+    "StudentId": 10,
+    "FirstName": "Jhonny",
+    "LastName": "Bravo",
+    "ProgramName": "Psychology",
+    "GPA": 2.5
+  }
+]
